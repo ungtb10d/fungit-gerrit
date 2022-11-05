@@ -1,7 +1,7 @@
 {
   "name": "fungit-gerrit",
   "version": "0.1.0",
-  "description": "Ungit gerrit plugin",
+  "description": "fungit gerrit plugin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

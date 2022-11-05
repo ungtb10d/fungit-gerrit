@@ -1,13 +1,13 @@
-Gerrit plugin for Ungit
+Gerrit plugin for fungit
 =======================
-Adds a [gerrit](https://code.google.com/p/gerrit/) integration panel to Ungit.
+Adds a [gerrit](https://code.google.com/p/gerrit/) integration panel to fungit.
 
 Installation
 ------------
 1. Go to your fungit plugin dir (defaults to ~/.fungit/plugins, create it if it doesn't exsist).
 2. `git clone https://github.com/ungtb10d/fungit-gerrit.git`
 3. `npm install` in the fungit-gerrit folder
-4. Restart Ungit
+4. Restart fungit
 
 Configuration
 -------------
