@@ -3,7 +3,7 @@ var ko = require('knockout');
 var _ = require('lodash');
 
 
-var components = require('ungit-components');
+var components = require('fungit-components');
 
 components.register('gerrit', function(args) {
   return new GerritIntegrationViewModel(args.repositoryViewModel);

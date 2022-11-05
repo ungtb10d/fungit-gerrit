@@ -1,5 +1,5 @@
 
-var components = require('ungit-components');
+var components = require('fungit-components');
 
 var repositoryConstructor = components.registered['repository'];
 components.register('repository', function(args) {
