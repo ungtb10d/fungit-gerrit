@@ -1,0 +1,14 @@
+{
+  "name": "gerrit",
+  "server": "backend.js",
+  "disabled": false,
+  "exports": {
+    "javascript": [
+      "components/gerrit/gerrit.js",
+      "components/repository/repository.js"
+    ],
+    "knockoutTemplates": {
+      "gerrit": "components/gerrit/gerrit.html"
+    }
+  }
+}
